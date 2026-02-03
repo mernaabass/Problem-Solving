@@ -10,36 +10,33 @@
 
 </div>
 
-<br>
-
 ## 📖 Overview
 
-Welcome to my **Problem Solving Journey** repository! 🚀
-This repository documents my progress in Competitive Programming. It serves as a collection of my solutions to algorithmic problems, primarily from **Codeforces**, starting from the basics and progressing to more complex challenges.
+**Competitive Programming Journey** is my personal repository documenting progress in algorithmic problem solving. 🚀
 
-My goal is to build a strong foundation in **Data Structures**, **Algorithms**, and logical thinking through consistent practice.
+This collection features solutions to problems from **Codeforces** - starting from beginner challenges and advancing to complex algorithmic tasks. The goal? Build rock-solid skills in **Data Structures**, **Algorithms**, and logical thinking through consistent practice.
 
-<br>
+## 🚀 Key Topics
 
-🚀 Key Topics
-I focus on solving problems related to these core concepts:
+- **Implementation & Logic** 🧠
+- **Math & Number Theory** 🔢
+- **Strings & Arrays** 🔡
+- **Greedy Algorithms** 🏃‍♀️
 
-Implementation & Logic 🧠
+## 🛠️ Technologies & Tools
 
-Math & Number Theory 🔢
+- **Language:** Python 🐍 (Clean, efficient code)
+- **Platform:** Codeforces
+- **Version Control:** Git & GitHub
 
-Strings & Arrays 🔡
+## 📈 My Stats
 
-Greedy Algorithms 🏃‍♀️
+<div align="center">
+<a href="https://codeforces.com/profile/Merna_Abass">
+<img src="https://img.shields.io/badge/Codeforces-View_Profile-445f9d?style=for-the-badge&logo=codeforces&logoColor=white">
+</a>
+</div>
 
-🛠️ Technologies & Tools
-Language: Python 🐍 (Focusing on clean and efficient code)
-
-Platform: Codeforces
-
-Version Control: Git & GitHub
-
-📈 My Stats
-<p align="center"> <a href="https://codeforces.com/profile/Merna_Abass"> <img src="https://img.shields.io/badge/Codeforces-View_Profile-445f9d?style=for-the-badge&logo=codeforces&logoColor=white"> </a> </p>
-
-<p align="center"> <i>"Consistency is the key to mastery." 🗝️</i> </p>
+<p align="center">
+<i>"Consistency is the key to mastery." 🗝️</i>
+</p>
