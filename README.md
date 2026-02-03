@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="300">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Girl Coding GIF" width="300">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F6B544&center=true&width=600&lines=Competitive+Programming+Journey;Sharpening+Problem+Solving+Skills;Data+Structures+%26+Algorithms;Consistent+Learning+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=60a5fa&center=true&width=600&lines=Competitive+Programming+Journey;Sharpening+Problem+Solving+Skills;Data+Structures+%26+Algorithms;Consistent+Learning+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Merna_Abass)
