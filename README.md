@@ -40,6 +40,6 @@ Platform: Codeforces
 Version Control: Git & GitHub
 
 📈 My Stats
-<p align="center"> <a href="https://codeforces.com/profile/Merna_Abass"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Codeforces-User-445f9d%3Fstyle%3Dfor-the-badge%26logo%3Dcodeforces%26logoColor%3Dwhite" alt="Codeforces Profile"> </a> </p>
+<p align="center"> <a href="https://codeforces.com/profile/Merna_Abass"> <img src="https://img.shields.io/badge/Codeforces-View_Profile-445f9d?style=for-the-badge&logo=codeforces&logoColor=white"> </a> </p>
 
 <p align="center"> <i>"Consistency is the key to mastery." 🗝️</i> </p>
