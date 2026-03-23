@@ -8,5 +8,5 @@ for _ in range(t):
     best_pair_prince=min(2*a,b)
     pairs_count=n//2
     singles_count=n%2
-    ans=(pairs_count*best_pair_prince)+(singles_count*b)
+    ans=(pairs_count*best_pair_prince)+(singles_count*a)
     print(ans)
