@@ -10,13 +10,13 @@ for _ in range(t):
     passed_candy=False
     for char in s:
         if char=="U":
-            x+=1
-        elif char=="D":
-            x-=1
-        elif char=="R":
             y+=1
-        else:
+        elif char=="D":
             y-=1
+        elif char=="R":
+            x+=1
+        else:
+            x-=1
         if x==1 and y==1:
             passed_candy=True
             break
